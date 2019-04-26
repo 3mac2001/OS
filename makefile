@@ -12,5 +12,5 @@ prog3:
 	g++ -pthread prog3.o -o prog3	
 clean:
 	rm -R prog*.o
-all: prog prog2 prog3
+
 
